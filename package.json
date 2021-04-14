@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "knex": "0.21.18",
+    "pg": "^8.6.0",
+    "pg-connection-string": "^2.4.0",
     "slugify": "^1.5.0",
     "sqlite3": "5.0.0",
     "strapi": "3.5.4",
